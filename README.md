@@ -1,16 +1,22 @@
-# photos
+# Flutter Wallpaper App
 
-A new Flutter project.
+This is a simple Flutter wallpaper app that uses the following libraries:
 
-## Getting Started
+- [dio](https://pub.dev/packages/dio) for making HTTP requests.
+- [image_downloader](https://pub.dev/packages/image_downloader) for downloading images from the internet.
+- [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view) for displaying images in a staggered grid layout.
+- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) for showing a loading spinner while images are being downloaded.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- View a collection of high-quality wallpapers.
+- Download wallpapers to your device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot 1](https://www.uplooder.net/img/image/33/f0d454cb50261aacb6ee5c478a0e03f9/Wallpaper-(1).jpg)
+
+
+
+
