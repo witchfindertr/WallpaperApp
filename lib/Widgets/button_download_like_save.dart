@@ -23,19 +23,7 @@ class _Button_D_L_SState extends State<Button_D_L_S> {
         children: [
 
 
-          // ElevatedButton(
-          //   onPressed: () {},
-          //   child: Icon(
-          //     Icons.favorite,
-          //     color: Colors.white.withOpacity(0.7),
-          //     size: 25,
-          //   ),
-          //   style: ElevatedButton.styleFrom(
-          //     backgroundColor: Colors.white.withOpacity(0.3),
-          //     shape: CircleBorder(),
-          //     padding: EdgeInsets.all(20),
-          //   ),
-          // ),
+        
           ClipRRect(
             borderRadius: BorderRadius.circular(15),
             child: ElevatedButton(
