@@ -13,7 +13,7 @@ This is a simple Flutter wallpaper app that uses the following libraries:
 - Download wallpapers to your device.
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](https://www.uplooder.net/img/image/33/f0d454cb50261aacb6ee5c478a0e03f9/Wallpaper-(1).jpg)
 
